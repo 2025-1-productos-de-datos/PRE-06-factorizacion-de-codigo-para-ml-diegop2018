@@ -1,4 +1,4 @@
-# Configuración en MacOS y Linux
+.venv# Configuración en MacOS y Linux
 
 Ejecute los siguientes comandos en el terminal:
 
@@ -14,7 +14,7 @@ Ejecute los siguientes comandos en el terminal:
 
 ```bash
 python3 -m venv .venv
-.venv\Scripts\activate
+.venv\Scripts\activate.venv\Scripts\activate
 setup
 ```
 
