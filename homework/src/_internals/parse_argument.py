@@ -32,3 +32,4 @@ def parse_argument():
         default=5,
         help="Number of neighbors (default: 5)",
     )
+    return parser.parse_args()
